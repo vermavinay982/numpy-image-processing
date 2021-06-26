@@ -1,4 +1,4 @@
-# Image-Processing-Matrix-Operations
+# Image-Processing-Matrix-Operations - Numpy
 
 - Edge
   - Sobel 
@@ -13,7 +13,12 @@
   - Skipping Pixels
 - Bit Plane 
 
+### Bit Plane
 ![Bit](assets/bitplane.png)
+
+### Noise Removal Processing
 ![Noise](assets/noise.png)
+
+### Resolution Changing
 ![Res](assets/res1.png)
 ![Res](assets/res2.png)
