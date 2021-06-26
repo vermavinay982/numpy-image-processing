@@ -12,3 +12,8 @@
   - Reduction 50,80,90%
   - Skipping Pixels
 - Bit Plane 
+
+![Bit](assets/bitplane.png)
+![Noise](assets/noise.png)
+![Res](assets/res1.png)
+![Res](assets/res2.png)
